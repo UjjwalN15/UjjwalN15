@@ -1,15 +1,8 @@
-- 👋 Hi, I’m @UjjwalN15
-- 👀 I’m interested in Data Science with Python
-- 🌱 I’m currently learning Python with Django
-- 💞️ I’m looking to collaborate on Real Hands-on Projects
-- 📫 How to reach me +9779768431599
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <!---
 UjjwalN15/UjjwalN15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://github.com/UjjwalN15/UjjwalN15/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Ujjwal Neupane</h1>
 <h3 align="center">A passionate backend, Python developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
