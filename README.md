@@ -38,3 +38,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## Some Entertainment
+![github contribution grid snake animation](https://raw.githubusercontent.com/beesou777/beesou777/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/beesou777/beesou777/output/github-contribution-grid-snake.svg#gh-light-mode-only)
