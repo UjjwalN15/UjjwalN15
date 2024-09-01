@@ -1,7 +1,3 @@
-<!---
-UjjwalN15/UjjwalN15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ![](https://github.com/UjjwalN15/UjjwalN15/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Ujjwal Neupane</h1>
 <h3 align="center">A passionate backend, Python developer from Nepal</h3>
@@ -20,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **ujjwalneupane01@gmail.com , itsmeujjwal725@gmail.com**
 
 - ⚡ Fun fact **I am hardworking**
-
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ujjwal-neupane-84a853234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ujjwal-neupane-84a853234/" height="30" width="40" /></a>
@@ -37,3 +34,9 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwaln15&show_icons=true&locale=en" alt="ujjwaln15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaln15&" alt="ujjwaln15" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=@UjjwalN15&limit=5&theme=dark&combine_all_yearly_contributions=true)
