@@ -1,6 +1,10 @@
+
 ![](https://github.com/UjjwalN15/UjjwalN15/blob/main/github%20banner.jpg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ujjwal+Neupane!;I'm+Backend+Developer" />
+</h1>
 <a target="_blank"  href="https://ujjwaln15.github.io/resume/"> Check out my resume </a>
-<h1 align="center">Hi 👋, I'm Ujjwal Neupane</h1>
+
 <h3 align="center">A passionate backend, Python developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
@@ -30,11 +34,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaln15&show_icons=true&locale=en&layout=compact" alt="ujjwaln15" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaln15&show_icons=true&theme=react&border_radius=10&locale=en&layout=compact" alt="ujjwaln15" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwaln15&show_icons=true&locale=en" alt="ujjwaln15" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwaln15&theme=react&border_radius=10&show_icons=true&locale=en" alt="ujjwaln15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaln15&" alt="ujjwaln15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwaln15&theme=react&border_radius=10" alt="ujjwaln15" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
