@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ujjwal+Neupane!;I'm+Backend+Developer" />
 </h1>
-<a target="_blank"  href="https://ujjwaln15.github.io/resume/"> Check out my resume </a>
+<a target="_blank"  href="https://filebin.net/5qbbs30fbe9hluev/Ujjwal-Neupane-cv%20-%20updated.pdf"> Check out my resume </a>
 
 <h3 align="center">A passionate backend, Python developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
